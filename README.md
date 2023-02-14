@@ -1,7 +1,7 @@
 # JAVA SDK for KuCoin API
 The detailed document [https://docs.kucoin.com](https://docs.kucoin.com).
 
-[![Latest Version](https://img.shields.io/github/release/Kucoin/kucoin-java-sdk.svg?style=flat-square)](https://github.com/Kucoin/kucoin-java-sdk/releases)
+[![Latest Version](https://img.shields.io/github/release/foundationer/kucoin-java-sdk.svg?style=flat-square)](https://github.com/foundationer/kucoin-java-sdk/releases)
 
 [![Build Status](https://travis-ci.org/Kucoin/kucoin-java-sdk.svg?branch=master)](https://travis-ci.org/Kucoin/kucoin-java-sdk)
 
@@ -13,7 +13,7 @@ The detailed document [https://docs.kucoin.com](https://docs.kucoin.com).
 <dependency>
     <groupId>com.kucoin</groupId>
     <artifactId>kucoin-java-sdk</artifactId>
-    <version>1.0.6</version>
+    <version>1.0.9</version>
 </dependency>
 ```
 ## Usage
