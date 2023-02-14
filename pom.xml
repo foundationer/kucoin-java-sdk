@@ -6,7 +6,7 @@
 
     <groupId>com.kucoin</groupId>
     <artifactId>kucoin-java-sdk</artifactId>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
 
     <name>kucoin-java-sdk</name>
     <url>http://www.kucoin.com</url>
@@ -17,6 +17,14 @@
         <java.version>17</java.version>
         <com.squareup.retrofit2.version>2.5.0</com.squareup.retrofit2.version>
     </properties>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/foundationer/kucoin-java-sdk</url>
+        </repository>
+    </distributionManagement>
 
     <dependencies>
         <dependency>
